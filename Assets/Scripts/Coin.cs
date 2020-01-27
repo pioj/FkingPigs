@@ -7,7 +7,7 @@ public class Coin : MonoBehaviour
     [SerializeField]
     private float speed;
     [SerializeField]
-    private int valorMoneda;
+    private float valorMoneda;
     private bool gameIsPaused;
     GameManager gameManager;
     // Start is called before the first frame update
